@@ -17,6 +17,12 @@ Watch the Youtube Short below for our prototype video!
 
 [![Watch the Prototype Demo](https://img.youtube.com/vi/AH0uyNu-OIY/maxresdefault.jpg)](https://youtube.com/shorts/AH0uyNu-OIY?feature=share)
 
+## Beta CPU Datapath
+![DataPath](https://drive.google.com/file/d/1RDd59E7DtQBaoqAxMRoyGrDUh-20KJFI/view?usp=sharing)
+
+## Fixed State Machine (FSM)
+![FSM](https://drive.google.com/file/d/1p2g_cbhQf4OOoJqhK9_C0jr8uwwUj4j_/view?usp=sharing)
+
 ## Team Members
 
 - [Ky](https://github.com/Kydinhvan)
