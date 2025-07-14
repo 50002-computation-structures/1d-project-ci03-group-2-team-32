@@ -1,5 +1,6 @@
 # 2025 50.002 1D Project
 
+UPDATE - We are receivers of the ISTD Outstanding Award 2025 for this project for our creativity and execution.
 ![Arcade Machine Project](https://drive.google.com/uc?id=1bPgjYnJbKQIEttYv0AW8WhygEeJFdnh-)
 
 ## Project Overview
