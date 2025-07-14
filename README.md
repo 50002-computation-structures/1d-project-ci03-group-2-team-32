@@ -1,6 +1,5 @@
 # 2025 50.002 1D Project
 
-UPDATE - We are receivers of the ISTD Outstanding Award 2025 for this project for our creativity and execution.
 ![Arcade Machine Project](https://drive.google.com/uc?id=1bPgjYnJbKQIEttYv0AW8WhygEeJFdnh-)
 
 ## Project Overview
@@ -12,26 +11,28 @@ For our 50.002 Computation Structures project, we built an arcade machine using 
 - 🔢 **Seven Segment Displays:** Used to show score and time. Data from regfiles is converted to binary for correct number display.
 - 🖥️ **Beta CPU and Instruction Set Architecture:** Designed and implemented with a program counter, REGFILE, ALU, and Control Unit, all coded as Alchitry Lucid modules.
 
+## Beta CPU Datapath
+
+![Beta CPU Datapath](https://drive.google.com/uc?id=1RDd59E7DtQBaoqAxMRoyGrDUh-20KJFI)
+
+## Fixed State Machine (FSM)
+
+![Fixed State Machine (FSM)](https://drive.google.com/uc?id=1p2g_cbhQf4OOoJqhK9_C0jr8uwwUj4j_)
+
 ## Prototype Demo
 Watch the Youtube Short below for our prototype video!
 
 [![Watch the Prototype Demo](https://img.youtube.com/vi/AH0uyNu-OIY/maxresdefault.jpg)](https://youtube.com/shorts/AH0uyNu-OIY?feature=share)
 
-## Beta CPU Datapath
-![DataPath](https://drive.google.com/file/d/1RDd59E7DtQBaoqAxMRoyGrDUh-20KJFI/view?usp=sharing)
-
-## Fixed State Machine (FSM)
-![FSM](https://drive.google.com/file/d/1p2g_cbhQf4OOoJqhK9_C0jr8uwwUj4j_/view?usp=sharing)
-
 ## Team Members
 
-- [Ky](https://github.com/Kydinhvan)
-- [Freddie](https://github.com/FredSterz)
-- [Natasha](https://github.com/natasha-sutd)
 - [Elizabeth](https://github.com/ELIBERP)
 - [Zhi Xun](https://github.com/zed-ex)
 - [Janelle](https://github.com/janfjxuan)
 - [Jana](https://github.com/janaleong)
+- [Natasha](https://github.com/natasha-sutd)
+- [Ky](https://github.com/Kydinhvan)
+- [Freddie](https://github.com/FredSterz)
 
 ## Initial Readme
 This starter template is created using Alchitry Lab V2, written in LucidV2 language. Full documentation can be found at [Alchitry's official website](https://alchitry.com/tutorials/).
