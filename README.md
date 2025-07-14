@@ -18,13 +18,13 @@ Watch the Youtube Short below for our prototype video!
 
 ## Team Members
 
+- [Ky](https://github.com/Kydinhvan)
+- [Freddie](https://github.com/FredSterz)
+- [Natasha](https://github.com/natasha-sutd)
 - [Elizabeth](https://github.com/ELIBERP)
 - [Zhi Xun](https://github.com/zed-ex)
 - [Janelle](https://github.com/janfjxuan)
 - [Jana](https://github.com/janaleong)
-- [Natasha](https://github.com/natasha-sutd)
-- [Ky](https://github.com/Kydinhvan)
-- [Freddie](https://github.com/FredSterz)
 
 ## Initial Readme
 This starter template is created using Alchitry Lab V2, written in LucidV2 language. Full documentation can be found at [Alchitry's official website](https://alchitry.com/tutorials/).
