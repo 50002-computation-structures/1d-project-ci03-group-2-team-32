@@ -3,7 +3,8 @@
 ![Arcade Machine Project](https://drive.google.com/uc?id=1bPgjYnJbKQIEttYv0AW8WhygEeJFdnh-)
 
 ## Project Overview
-Full report: ![here](https://docs.google.com/document/d/1i55QxqdQVxekoRKUC-4VbMoP-OCmX_1RQGvkN3SKQEw/edit?usp=sharing)
+Full report: [here](https://docs.google.com/document/d/1i55QxqdQVxekoRKUC-4VbMoP-OCmX_1RQGvkN3SKQEw/edit?usp=sharing)
+
 For our 50.002 Computation Structures project, we built an arcade machine using a single 𝗔𝗹𝗰𝗵𝗶𝘁𝗿𝘆 𝗔𝘂 𝗙𝗣𝗚𝗔 (Xilinx Artix 7). The machine features:
 
 - 🔳 **16x16 LED Matrix:** Serves as the display screen, with each individual LED programmed for custom graphics.
@@ -77,6 +78,5 @@ Watch the Youtube Short below for our prototype video!
 
 [![Watch the Prototype Demo](https://img.youtube.com/vi/AH0uyNu-OIY/maxresdefault.jpg)](https://youtube.com/shorts/AH0uyNu-OIY?feature=share)
 
-All tests validate state transitions and datapath correctness.
 ## Initial Readme
 This starter template is created using Alchitry Lab V2, written in LucidV2 language. Full documentation can be found at [Alchitry's official website](https://alchitry.com/tutorials/).
